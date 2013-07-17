@@ -1,0 +1,12 @@
+{
+    "name": "StoriesByCreator",
+    "className": "Rally.apps.storiesbycreator.App",
+    "server": "https://test7cluster.rallydev.com",
+    "sdk": "2.0rc1",
+    "javascript": [
+        "App.js"
+    ],
+    "css": [
+        "app.css"
+    ]
+}
